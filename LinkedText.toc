@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: LinkedText
+## Version: 1.0.0beta
+## Notes: Should make Different links possible to click in general.
+## Author: Private, olivernybo
+## DefaultState: enabled
+
+LinkedText.lua
