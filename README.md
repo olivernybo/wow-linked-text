@@ -6,3 +6,7 @@ The popup's text is allready highlighted so you can easy copy and paste it.
 This is useable with all kinds of link, such as www.google.com. 
 
 ![featured image](images/featured_image.jpg)
+
+# Install
+
+To install go to [releases](https://github.com/olivernybo/wow-linked-text/releases/) and download the [latest release](https://github.com/olivernybo/wow-linked-text/releases/latest).
