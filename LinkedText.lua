@@ -34,7 +34,8 @@ end
 StaticPopupDialogs["CLICK_LINK_CLICKURL"] = {
     text = "Copy the link",
     button1 = "Close",
-    OnAccept = function() end,
+	OnAccept = function()
+	end,
     timeout = 0,
     whileDead = true,
     hideOnEscape = true,
