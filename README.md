@@ -9,4 +9,5 @@ This is useable with all kinds of links, such as google.com.
 
 # Install
 
-To install go to [releases](https://github.com/olivernybo/wow-linked-text/releases/) and download the [latest release](https://github.com/olivernybo/wow-linked-text/releases/latest).
+To install the addon go to [releases](https://github.com/olivernybo/wow-linked-text/releases/) and download the [latest release](https://github.com/olivernybo/wow-linked-text/releases/latest).  
+After you have downloaded the addon, unzip it and place it in your World of Warcraft addon directory.
